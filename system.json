@@ -1,0 +1,30 @@
+{
+    "name":"oprpg",
+    "title": "Ordem Paranormal RPG",
+    "description": "Sistema não oficial de Ordem Paranormal RPG",
+    "author": "Wargoos",
+    "version": 0.01,
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "esmodules":[
+    "oprpg.js"
+    ],
+"styles":[
+    "oprpg.css"
+],
+
+"packs":[
+
+],
+"languages": [
+{
+    "lang": "pt-BR",
+    "name": "Português",
+    "path": "lang/pt-BR.json"
+  }
+],
+  "gridDistance": 1.5,
+  "gridUnits": "m",
+  "primaryTokenAttribute": "attributes.pv",
+  "secondaryTokenAttribute": "attributes.pe"
+}
